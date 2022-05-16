@@ -29,7 +29,7 @@ author:
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 paginate: 6
 paginate_path: /page:num/
 
