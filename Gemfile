@@ -42,10 +42,9 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
 
-gem "jekyll-include-cache", "~> 0.2.1"
-
 gem "minimal-mistakes-jekyll"
 
 gem "jekyll-paginate"
 
-gem "github-pages", "~> 226"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
