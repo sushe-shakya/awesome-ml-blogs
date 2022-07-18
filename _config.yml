@@ -17,8 +17,8 @@ title: Machine Learning Blogs
 email: sushe.shakya@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Machine Learning Blogs
-baseurl: "" # the subpath of your site, e.g. /blog
-url: sushe-shakya.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/awesome-ml-blogs" # the subpath of your site, e.g. /blog
+url: "sushe-shakya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sushe_shakya
 github_username:  sushe-shakya
 author: 
@@ -49,6 +49,9 @@ defaults:
       comments: true
       share: true
       related: true
+      words_per_minute: 60
+      show_date: true
+
       
 
 # Exclude from processing.

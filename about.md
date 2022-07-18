@@ -1,7 +1,8 @@
 ---
-layout: posts
+layout: single
 title: About Me
 permalink: /about/
+
 ---
 
 ### 🙏 Hi, Sushil Shakya here.
